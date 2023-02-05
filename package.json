@@ -1,0 +1,24 @@
+{
+  "name": "databeatdb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anwar7411/databeatdb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anwar7411/databeatdb/issues"
+  },
+  "homepage": "https://github.com/Anwar7411/databeatdb#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
